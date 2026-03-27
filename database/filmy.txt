@@ -1,0 +1,9 @@
+Minecraft:Film;101;Przygodowy, Familijny;Jack Black wciela się w postać kultowego Steve'a, którego zawsze ciągnęło do kopalni.
+Kung fu Kocoń;93;Komedia, Przygodowy, Familijny;Przeznaczenie sprawdzi, czy odwaga i męski kucyk mogą być kluczem do uratowania Doliny Eitu przed złowrogim War-Unem.
+Karate Szyd;120;Sztuki walki, Familijny;Młody uczeń poznaje mądrego senseia (w tej roli Maczu Pikczu), który uczy go sztuki uwalania studentów drugiego roku.
+Indiana Rzoms: Ostatnia adresacja;127;Przygodowy, Megahit;Potężny sieciowiec wpada na trop nazistowskiego spisku wykorzystującego zaawansowaną technologię IPv7, który może odmienić oblicze świata jaki znamy.
+Fantastyczna Czwórka;115;Akcja, Sci-Fi;Pierwsza Rodzina Marvela staje przed swoim najtrudniejszym wyzwaniem. Zmuszeni do balansowania między rolą bohaterów a siłą rodzinnych więzi, muszą obronić Ziemię przed wygłodniałym kosmicznym bogiem Galactusem i jego heroldem, Srebrnym Surferem.
+Avatar: Ogień i Popiół;195;Sci-Fi;Sytuacja na Pandorze staje się coraz bardziej napięta, gdy Jake i rodzina Neytiri napotykają nowe agresywne plemię Na'vi.
+Odyseja;180;Dramat historyczny;Historia Odyseusza i jego niebezpiecznej podróży do domu po wojnie trojańskiej.
+Interstellar;169;Sci-Fi;Byt ludzkości na Ziemi dobiega końca wskutek zmian klimatycznych. Grupa naukowców odkrywa tunel czasoprzestrzenny, który umożliwia poszukiwanie nowego domu.
+Śnieżka;109;Familijny, Przygodowy;Aktorska postępowo INKLUZYWNA adaptacja przestarzałej disnejowskiej animacji o Królewnie Śnieżce z 1937 roku.

@@ -1,0 +1,26 @@
+Bobercik;Indiana Rzoms: Ostatnia adresacja;19:00;1 3 7
+Bobercik;Minecraft:Film;18:00;2 3 2
+kacpermaster;Avatar: Ogień i Popiół;14:00;5 4 7
+Daymio;Minecraft:Film;18:00;2 3 8
+Daymio;Indiana Rzoms: Ostatnia adresacja;19:00;1 4 7
+Daymio;Odyseja;19:30;5 4 8
+yako;Avatar: Ogień i Popiół;14:00;5 2 4
+yako;Indiana Rzoms: Ostatnia adresacja;19:00;1 4 4
+mibombo;Fantastyczna Czwórka;18:20;6 4 4
+grinch89;Interstellar;22:00;1 2 6
+grinch89;Avatar: Ogień i Popiół;14:00;5 3 5
+piwko;Śnieżka;15:00;7 4 4
+PoloMati;Śnieżka;15:00;7 4 6
+Niemiec;Śnieżka;15:00;7 4 7
+hejter_galiasa;Śnieżka;15:00;7 4 5
+DasAdi;Śnieżka;15:00;7 4 8
+Polewaj;Śnieżka;15:00;7 4 2
+krówka;Interstellar;22:00;1 4 4
+Mikolaj;Interstellar;22:00;1 5 6
+Mikolaj;Fantastyczna Czwórka;17:20;7 6 6
+Mikolaj;Minecraft:Film;8:00;1 3 7
+kacpermaster;Indiana Rzoms: Ostatnia adresacja;17:00;8 3 7
+kacpermaster;Minecraft:Film;10:45;1 4 7
+yako;Śnieżka;15:00;7 5 4
+Mikolaj;Indiana Rzoms: Ostatnia adresacja;15:25;1 4 2
+krowka;Minecraft:Film;10:45;1 1 1
